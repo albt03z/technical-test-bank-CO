@@ -1,0 +1,15 @@
+!!Bitacora!!
+Nota: Esta es una breve descripción de los pasos que seguí para construir el modelo,
+cabe resaltar que mi acercamiento con esta clase de modelos es muy nueva por ende este 
+puede estar atado a posibles errores, a continuación los pasos que seguí para llevar acabo dicho modelo.
+
+En el archivo data, fue donde aloje la información bajada correspondientes a los libros de excel
+book_rating y books_data
+
+1. Revisé y validé la información en el dataset.
+2. Realicé una limpieza de los datos para eliminar valores nulos y duplicados.
+3. Transformé las variables categóricas en variables numéricas utilizando codificación.
+4. Dividí el dataset en conjuntos de entrenamiento y prueba.
+5. Entrené el modelo utilizando el conjunto de entrenamiento.
+6. Evalué el modelo con el conjunto de prueba y ajusté los hiperparámetros.
+7. Validé los resultados y ajusté el modelo para mejorar su precisión.
